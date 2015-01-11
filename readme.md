@@ -10,10 +10,12 @@ ___
 - Use the football-api.com API for football statistics.
 - Solidfy my understanding of Rails and ActiveRecord.
 
-## Personal Aims
-___
+#### Personal Aims
 
 - To have people using it in a test run when complete.
 
-## Heroku address
-___
+#### Technologies used
+
+- Rails
+- Web Sockets
+- football-api.com API
