@@ -1,5 +1,7 @@
 # Matchday
 
+![Alt text](https://raw.githubusercontent.com/fadieh/matchday/master/logo.png)
+
 #####"A second screen with live statistics and chat for English Premier League games."<br><br>
 This is a personal project I hope to complete very soon.
 
